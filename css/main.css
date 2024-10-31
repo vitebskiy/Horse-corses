@@ -358,7 +358,7 @@ a {
   top: 60%;
   width: 485px;
   height: 178px;
-  background-image: url("/img/svg/arrow.svg");
+  background-image: url("../img/svg/arrow.svg");
   background-size: contain;
   background-repeat: no-repeat;
 }
